@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1>osTicket - Prerequisites and Installation (Will conclude after 11/9/2023 when I return from vacation due to limited PC accessibilty)</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
@@ -22,8 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Microsoft Azure running 2 Virtual machine instances
 - osTicket installation file
 - Installing Active Directory in one of the virtual instances
-- Item 4
-- Item 5
+
 
 <h2>Installation Steps</h2>
 
