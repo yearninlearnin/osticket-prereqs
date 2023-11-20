@@ -36,6 +36,8 @@ For our first step, we need to create a resource group in Azure in which our VM 
 <img src="https://i.imgur.com/BVyzUvS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+Next, I connect to this newly created VM using the Remote Desktop Connection which is a default Windows program. For the sake of this tutorial, I am masking the public IPv4 address of the Azure VM. The public IPv4 address, username and password defined while creating the VM are all required for access.
+<img src="https://i.imgur.com/Wyzzxon.png" height="80%" width="80%" />
 </p>
 <br />
 
