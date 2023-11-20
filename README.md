@@ -15,7 +15,7 @@ In this lab, I will install osTicket which is an open source software used for h
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10/Mac OS</b>
+- Windows 10</b>
 
 <h2>List of Prerequisites</h2>
 
