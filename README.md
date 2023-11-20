@@ -19,9 +19,14 @@ In this lab, I will install osTicket which is an open source software used for h
 
 <h2>List of Prerequisites</h2>
 
-- Microsoft Azure running 2 Virtual machine instances
-- osTicket installation file
+- Microsoft Azure virtual machine
+- osTicket v1.15.8
 - Installing Active Directory in one of the virtual instances
+- Heidi SQL
+- MySQL
+- PHP Manager
+- VC Redist
+- Rewrite Module
 
 
 <h2>Installation Steps</h2>
