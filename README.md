@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation **(Lab Documentation in progress)</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+In this lab, I will install osTicket which is an open source software used for help desk ticketing. This will completed using a VM created in Azure. The necessary installation files that are located <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">here!</a><br />
 
 
 
