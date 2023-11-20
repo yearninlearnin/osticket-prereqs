@@ -32,10 +32,10 @@ In this lab, I will install osTicket which is an open source software used for h
 <h2>Installation Steps</h2>
 
 <p>
+For our first step, we need to create a resource group in Azure in which our VM will be installed into. Once the VM is running, I can make all the necessary installations to get osTicket installed. I'm using a VM build with Windows 10 and it is using a quad cores with 16GB of RAM which should be more than enough for this lab. 
 <img src="https://i.imgur.com/BVyzUvS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-For our first step, we need to create a resource group in Azure in which our VM will be installed into. Once the VM is running, we can make all the necessary installations to get osTicket installed. 
 </p>
 <br />
 
