@@ -27,11 +27,10 @@ In this lab, I will install osTicket which is an open source software used for h
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5HZXLHA.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install Active Directory in VM #1 and make sure to set yourself up an admin account and at least 2 accounts with elevated priviledges.
-End-User accounts will also be set up with READ-ONLY access.
+For our first step, we need to create a resource group in Azure in which our VM will be installed into. Once the VM is running, we can make all the necessary installations to get osTicket installed. 
 </p>
 <br />
 
