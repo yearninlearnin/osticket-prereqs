@@ -42,4 +42,4 @@ Next, I connect to this newly created VM using the Remote Desktop Connection whi
 <img src="https://i.imgur.com/Wyzzxon.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-
+<img src="ttps://i.imgur.com/1TwTxvK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
