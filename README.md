@@ -32,10 +32,19 @@ In this lab, I will install osTicket which is an open source software used for h
 <h2>Installation Steps</h2>
 
 <p>
-For our first step, we need to create a resource group in Azure in which our VM will be installed into. Once the VM is running, I can make all the necessary installations to get osTicket installed. I'm using a VM build with Windows 10 and it is using a quad cores with 16GB of RAM which should be sufficient for this lab to supply with enough computing power.
+First, I  to created a resource group in Azure in which our VM will be installed into. Once the VM is running, I can make all the necessary installations to get osTicket installed. I'm using a VM build with Windows 10 and it is using a quad cores with 16GB of RAM which should be sufficient for this lab to supply with enough computing power.
 </p>
-<img src="https://i.imgur.com/BVyzUvS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+<img src="https://i.imgur.com/BVyzUvS.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
+<br />
+<p>
+body of text
+</p>
+<p>
+<img src="https://i.imgur.com/BVyzUvS.png" height="80%" width="80%" alt="Installation Steps"/>
+</p>
+<br />
 <p>
 Next, I connect to this newly created VM using the Remote Desktop Connection which is a default Windows program. For the sake of this tutorial, I am masking the public IPv4 address of the Azure VM. The public IPv4 address, username and password defined while creating the VM are all required for access.
 </p>
