@@ -47,4 +47,12 @@ Next, I connect to this newly created VM using the Remote Desktop Connection whi
 </p>
 <br />
 
+<p>
+space reserved for text
+</p>
+<p>
+<img src="https://imgur.com/a/LDUiqKF" height="80%" width="80%" alt="Installation Steps"/>
+</p>
+<br />
+
 
