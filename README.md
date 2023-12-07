@@ -95,3 +95,19 @@ space reserved for text
 </p>
 <br />
 
+<p>
+space reserved for text
+</p>
+<p>
+<img src="https://i.imgur.com/tlyFV5F.png" height="80%" width="80%" alt="Installation Steps"/>
+</p>
+<br />
+
+
+<p>
+The installation of osTicket is now complete. The next part of the lab will be located <a href="https://github.com/yearninlearnin/post-install-config">here!</a><br /> 
+</p>
+<p>
+<img src="https://i.imgur.com/giNDhB9.png" height="80%" width="80%" alt="Installation Steps"/>
+</p>
+<br />
