@@ -63,5 +63,35 @@ space reserved for text
 </p>
 <br />
 
+<p>
+space reserved for text
+</p>
+<p>
+<img src="https://i.imgur.com/2n1sp0P.jpg" height="80%" width="80%" alt="Installation Steps"/>
+</p>
+<br />
 
+<p>
+space reserved for text
+</p>
+<p>
+<img src="https://i.imgur.com/XYVVv03.jpg" height="80%" width="80%" alt="Installation Steps"/>
+</p>
+<br />
+
+<p>
+space reserved for text
+</p>
+<p>
+<img src="https://i.imgur.com/w4DP6At.png" height="80%" width="80%" alt="Installation Steps"/>
+</p>
+<br />
+
+<p>
+space reserved for text
+</p>
+<p>
+<img src="https://i.imgur.com/sg7juHb.jpg" height="80%" width="80%" alt="Installation Steps"/>
+</p>
+<br />
 
