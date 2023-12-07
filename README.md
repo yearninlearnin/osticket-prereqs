@@ -55,4 +55,13 @@ space reserved for text
 </p>
 <br />
 
+<p>
+space reserved for text
+</p>
+<p>
+<img src="https://i.imgur.com/TxhDoRz.jpg" height="80%" width="80%" alt="Installation Steps"/>
+</p>
+<br />
+
+
 
