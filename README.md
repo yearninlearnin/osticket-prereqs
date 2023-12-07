@@ -51,7 +51,7 @@ Next, I connect to this newly created VM using the Remote Desktop Connection whi
 space reserved for text
 </p>
 <p>
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/LDUiqKF" data-context="false" ><a href="//imgur.com/a/LDUiqKF"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="[img]https://i.imgur.com/BTteWrG.jpg[/img]" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
 
