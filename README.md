@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation **(Lab Documentation in progress)</h1>
+<h1>osTicket - Prerequisites and Installation **12/7/23(Lab Documentation in progress)</h1>
 In this lab, I will install osTicket which is an open source software used for help desk ticketing. This will completed using a VM created in Azure. The necessary installation files that are used are located <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">here!</a><br />
 
 
