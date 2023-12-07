@@ -51,7 +51,7 @@ Next, I connect to this newly created VM using the Remote Desktop Connection whi
 space reserved for text
 </p>
 <p>
-<img src="[img]https://i.imgur.com/BTteWrG.jpg[/img]" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/BTteWrG.jpg" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
 
