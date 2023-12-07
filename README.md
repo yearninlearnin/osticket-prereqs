@@ -38,19 +38,13 @@ First, I  to created a resource group in Azure in which our VM will be installed
 <img src="https://i.imgur.com/BVyzUvS.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
-<p>
-body of text
-</p>
-<p>
-<img src="https://i.imgur.com/BVyzUvS.png" height="80%" width="80%" alt="Installation Steps"/>
-</p>
-<br />
+
 <p>
 Next, I connect to this newly created VM using the Remote Desktop Connection which is a default Windows program. For the sake of this tutorial, I am masking the public IPv4 address of the Azure VM. The public IPv4 address, username and password defined while creating the VM are all required for access.
 </p>
-<img src="https://i.imgur.com/Wyzzxon.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+<img src="https://i.imgur.com/Wyzzxon.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
-</p>
-<img src="https://imgur.com/1TwTxvK" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<br />
+
 
