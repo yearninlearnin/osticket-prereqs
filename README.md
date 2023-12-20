@@ -48,7 +48,7 @@ Next, I connect to this newly created VM using the Remote Desktop Connection whi
 <br />
 
 <p>
-space reserved for text
+Once inside of the virtual machine, I have to configure a few things in order for Windows to accept the version of osTicket That I will install. This requires certain features within IIS to be enabled such as Common Gateway Interface.
 </p>
 <p>
 <img src="https://i.imgur.com/BTteWrG.jpg" height="80%" width="80%" alt="Installation Steps"/>
@@ -56,7 +56,7 @@ space reserved for text
 <br />
 
 <p>
-space reserved for text
+Next I begin the installations of the prequesite programs and then ultimately, our ticketing software.
 </p>
 <p>
 <img src="https://i.imgur.com/TxhDoRz.jpg" height="80%" width="80%" alt="Installation Steps"/>
@@ -64,7 +64,7 @@ space reserved for text
 <br />
 
 <p>
-space reserved for text
+
 </p>
 <p>
 <img src="https://i.imgur.com/2n1sp0P.jpg" height="80%" width="80%" alt="Installation Steps"/>
@@ -72,7 +72,7 @@ space reserved for text
 <br />
 
 <p>
-space reserved for text
+
 </p>
 <p>
 <img src="https://i.imgur.com/XYVVv03.jpg" height="80%" width="80%" alt="Installation Steps"/>
@@ -80,7 +80,7 @@ space reserved for text
 <br />
 
 <p>
-space reserved for text
+
 </p>
 <p>
 <img src="https://i.imgur.com/w4DP6At.png" height="80%" width="80%" alt="Installation Steps"/>
@@ -88,7 +88,7 @@ space reserved for text
 <br />
 
 <p>
-space reserved for text
+
 </p>
 <p>
 <img src="https://i.imgur.com/sg7juHb.jpg" height="80%" width="80%" alt="Installation Steps"/>
@@ -96,7 +96,7 @@ space reserved for text
 <br />
 
 <p>
-space reserved for text
+I create an admin user who pretty much be consired the root account of the ticketing software. In this scenario, the company name is Anthony Help Desk and the lead admin is jedi_force.
 </p>
 <p>
 <img src="https://i.imgur.com/tlyFV5F.png" height="80%" width="80%" alt="Installation Steps"/>
